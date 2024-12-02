@@ -23,6 +23,7 @@ Finally, we had to create a script for the exploratory data analysis mentioned a
   - List a count of how common each employee's last name is (basically how many employees share each last name)
 
 
+
 Program Execution Instructions:
 
   - Download the schema, query, and data files
@@ -33,10 +34,13 @@ Program Execution Instructions:
   - Open a new query tool in the database, load the query script, and execute the individual sections of it at your discretion
 
 
+
 I hope the analysis provided here proves to be insightful and helpful!
 
 
+
 The ERD diagram was created using the Quick Database Diagrams website. The schema file was generated using the export function of the program. All credits for the usage of that website/program, including the function to export the diagram into a schema file and format said file belong to the designers of it. Check out the website here: https://app.quickdatabasediagrams.com
+
 
 
 Some additional references were used during the development of this project:
