@@ -45,7 +45,8 @@ The ERD diagram was created using the Quick Database Diagrams website. The schem
 
 Some additional references were used during the development of this project:
 
-Had issues with table names conflicting with references, so I got help from XPert Learning Assistant through the bootcamp course. This is the prompt I used:
+Had issues with table names conflicting with references, so I got help from XPert Learning Assistant through the bootcamp course. 
+This is the prompt I used:
 im working with postgres sql and i keep getting this error: ERROR: relation "employees" does not exist LINE 1: SELECT * FROM Employees;
 
 Referenced this for the AND and OR operators syntax:
