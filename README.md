@@ -28,7 +28,7 @@ Program Execution Instructions:
 
   - Download the schema, query, and data files
   - Load pgAdmin 4 (this is what was used to develop this project)
-  - Create data base for use with this project
+  - Create database for use with this project
   - Open a query tool, load the schema file into it, and run it
   - Load the data files into the tables that the schema file created, in the order that they were created
   - Open a new query tool in the database, load the query script, and execute the individual sections of it at your discretion
